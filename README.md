@@ -1,2 +1,2 @@
 # Web-project
-Its a repository of project1
+this is a repository for project1
